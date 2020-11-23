@@ -4,6 +4,7 @@ Weekly
 2. 2 Hari linux
 3. react 1 hari
 4. Desain 1 hari
+5. Template 1 hari
 
 Daily
 1. Git/github setiap update
