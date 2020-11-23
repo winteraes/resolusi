@@ -1,0 +1,10 @@
+Resolusi
+Weekly
+1. Laravel minim 3hari per minggu
+2. 2 Hari linux
+3. react 1 hari
+4. Desain 1 hari
+
+Daily
+1. Git/github setiap update
+2. Doto max 3 jam per hari / boleh malam
